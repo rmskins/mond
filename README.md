@@ -1,2 +1,2 @@
 # mond
-Mond Rainmeter Theme
+Mond Rainmeter Theme by ApexXx-SenSei aka Hiphopium
